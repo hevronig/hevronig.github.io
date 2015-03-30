@@ -17,7 +17,7 @@ _Shrimp taco and nachos at Ortega's Bistro 141 University Ave, San Diego, CA 921
 ![_config.yml]({{ site.baseurl }}/images/drumer.jpg)
 _Balboa Park San Diego_
 
-Next, a one night stay at Waikiki Beach in Honolulu, Hawaii:
+### Next, a one night stay at Waikiki Beach in Honolulu, Hawaii:
 
 ![_config.yml]({{ site.baseurl }}/images/ocean_view.jpg)
 _Ocean view_
@@ -35,7 +35,7 @@ _Waiting_
 _Kapiolani Park_
 
 ![_config.yml]({{ site.baseurl }}/images/bronze_surfer.jpg)
-_Sturdy surfer__
+_Sturdy surfer_
 
 ![_config.yml]({{ site.baseurl }}/images/buddies.jpg)
 _Buddies_
@@ -56,7 +56,7 @@ _Surf school_
 _Off they go_
 
 ![_config.yml]({{ site.baseurl }}/images/fruit.jpg)
-_Fruits in heaven_
+_Fruits of heaven_
 
 ![_config.yml]({{ site.baseurl }}/images/shelter.jpg)
 _Even heaven has its faults..._
