@@ -6,7 +6,6 @@ permalink: /about/
 
 I'm Gur Hevroni, a PhD student at Oded Beja's lab in the faculty of biology, at the Technion, Israel. I'm studying the interaction of phages and microbes in the marine environment through a combination of 'meta-omics' and 'single-cell' techniques, aiming to extend our understanding of the role of marine phages in biogeochemical cycles.
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
