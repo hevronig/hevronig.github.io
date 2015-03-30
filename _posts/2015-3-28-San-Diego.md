@@ -51,9 +51,14 @@ _Surf school_
 
 ![_config.yml]({{ site.baseurl }}/images/surf_school.jpg)
 
+![_config.yml]({{ site.baseurl }}/images/surfer.jpg)
+_On a mission_
 
 ![_config.yml]({{ site.baseurl }}/images/rowing.jpg)
 _Off they go_
+
+![_config.yml]({{ site.baseurl }}/images/lifeguard.jpg)
+_Safety first_
 
 ![_config.yml]({{ site.baseurl }}/images/fruit.jpg)
 _Fruits of heaven_
@@ -61,5 +66,3 @@ _Fruits of heaven_
 ![_config.yml]({{ site.baseurl }}/images/shelter.jpg)
 _Even heaven has its faults..._
 
-![_config.yml]({{ site.baseurl }}/images/lifeguard.jpg)
-_Safety first_
