@@ -9,4 +9,4 @@ It was a great opportunity to meet with many like minded scientist sharing inter
 
 And of course the food and beer, oh!
 
-!e_config.yml]({{ site.baseurl }}/images/shrimp_taco.jpg)
+![_config.yml]({{ site.baseurl }}/images/shrimp_taco.jpg)
