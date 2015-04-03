@@ -3,7 +3,7 @@ layout: post
 title: In-Port American Samoa
 ---
 
-It hits right you as you step outside the airplane, like stepping into a hot, humid greenhouse - Welcome to the tropics!
+It hits you immediately as you step outside the airplane. Like stepping into a hot, humid greenhouse - Welcome to the tropics!
 Ameriacan Samoa's landscape is beautiful. With steep granite clifs, lash evergreen vegetation and of course blue ocean all around.
 The Samoan people are extremely warm and friendly, with laidback mentality and always welcome you with a smile.
 Local markets offer fresh coconuts, bananas, papayas and taro. Although most produce is dependant on import, so quality may decline as time passes from the arrival of the last shipment of goods.
