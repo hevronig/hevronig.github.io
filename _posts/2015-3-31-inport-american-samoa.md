@@ -1,4 +1,4 @@
-----
+---
 layout: post
 title: In-Port American Samoa
 ---
@@ -58,7 +58,7 @@ Wet lab to process all the samples we collect at the diving sites.
 
 There is one mess for dining, and a lounge for chilling.
 
-![_config.yml]({{ site.baseurl }}/images/mess.jpg)
+![_config.yml]({{ site.baseurl }}/images/mass.jpg)
 ![_config.yml]({{ site.baseurl }}/images/lounge.jpg)
 
 The ship has a floating hospital and even a pressure chamber! This is very reassuring...
