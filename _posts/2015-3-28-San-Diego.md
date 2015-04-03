@@ -3,8 +3,8 @@ layout: post
 title: Travel log 
 ---
 
-
-Before embarking on the trip I made a stop at San Diego State University to visit Forest Rohwer's lab for a check out dive and to pick up some necessary gear for the cruise.
+### San Diego
+Before embarking on the Line Islands cruise I made a stop at San Diego State University to visit Forest Rohwer's lab for a check out dive and to pick up some necessary gear for the cruise.
 It was a great opportunity to meet with many like minded scientists sharing my interest in marine microbes, and get a fresh perspective on doing science.
 
 And of course the food and beer, oh!
@@ -17,7 +17,8 @@ _Shrimp taco and nachos at Ortega's Bistro 141 University Ave, San Diego, CA 921
 ![_config.yml]({{ site.baseurl }}/images/drumer.jpg)
 _Balboa Park San Diego_
 
-### Next, a one night stay at Waikiki Beach in Honolulu, Hawaii:
+### Honolulu
+En route to Pago Pago (prenounced Pango Pango) I made one last stop in Waikiki Beach (Honolulu, Hawaii).
 
 ![_config.yml]({{ site.baseurl }}/images/ocean_view.jpg)
 _Ocean view_
