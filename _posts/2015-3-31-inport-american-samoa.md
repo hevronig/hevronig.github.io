@@ -56,7 +56,7 @@ Wet lab to process all the samples we collect at the diving sites.
 ![_config.yml]({{ site.baseurl }}/images/wet_lab.jpg)
 ![_config.yml]({{ site.baseurl }}/images/microbiology_st.jpg)
 
-There is one mess for dining, and a lounge for chilling.
+There is a mess for dining and a lounge for chilling.
 
 ![_config.yml]({{ site.baseurl }}/images/mass.jpg)
 ![_config.yml]({{ site.baseurl }}/images/lounge.jpg)
