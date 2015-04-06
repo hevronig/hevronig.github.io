@@ -17,4 +17,8 @@ _(ARMS: Artifitial Reaf Monitoring System)_
 
 _Staying active_
 ![_config.yml]({{ site.baseurl }}/images/ping_pong.jpg)
+![_config.yml]({{ site.baseurl }}/images/ping_pong_match.jpg)
 ![_config.yml]({{ site.baseurl }}/images/abs_workout.jpg)
+
+_End of day_
+![_config.yml]({{ site.baseurl }}/images/sunset.jpg)
