@@ -3,8 +3,8 @@ layout: post
 title: Jarvis Island
 ---
 
-#### Sunrise. Hello [Jarvis Island!](http://en.wikipedia.org/wiki/Jarvis_Island)  
-#### The island appear with the sound of thousands of sea birds nesting on its shores.
+#### Sunrise. Hello [Jarvis!](http://en.wikipedia.org/wiki/Jarvis_Island)  
+#### As the sun rises the island appear with the sound of thousands of sea birds nesting on its shores.
 ![_config.yml]({{ site.baseurl }}/images/jarvis_sunrise01.jpg)
 ![_config.yml]({{ site.baseurl }}/images/jarvis_panorama.jpg)
 _Panoramic view_
