@@ -24,7 +24,7 @@ _Avon is loaded and headed the shore._
 ![_config.yml]({{ site.baseurl }}/images/loading_boat05.jpg)
 ![_config.yml]({{ site.baseurl }}/images/to_dive01.jpg)
 ![_config.yml]({{ site.baseurl }}/images/dolphin_jump.jpg)
-_HI2 is loaded and headed to the diving sites._
+_HI2 is loaded and headed to the diving sites, accompanied by a friendly dolphin._
 
 #### It's just _another day at the "office"_ to some of these guys!
 ![_config.yml]({{ site.baseurl }}/images/dolphins02.jpg)
