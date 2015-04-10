@@ -3,20 +3,22 @@ layout: post
 title: Jarvis Island
 ---
 
-Sunrise. Hello [Jarvis Island!](http://en.wikipedia.org/wiki/Jarvis_Island)  
-The island appear with the sound of thousands of sea birds nesting on its shores.
+#### Sunrise. Hello [Jarvis Island!](http://en.wikipedia.org/wiki/Jarvis_Island)  
+#### The island appear with the sound of thousands of sea birds nesting on its shores.
 ![_config.yml]({{ site.baseurl }}/images/jarvis_sunrise01.jpg)
 ![_config.yml]({{ site.baseurl }}/images/jarvis_panorama.jpg)
+_Panoramic view_
 ![_config.yml]({{ site.baseurl }}/images/jarvis_beacon.jpg)
+_Jarvis beacon_
 
-After brekfast a daily safty breifing and immediately the boats starts to launch.  
-Some are heading to shore.
+#### After brekfast a daily safty breifing and immediately the boats starts to launch:  
+#### Some are heading to shore.
 ![_config.yml]({{ site.baseurl }}/images/loading_boat01.jpg)
 ![_config.yml]({{ site.baseurl }}/images/loading_boat02.jpg)
 ![_config.yml]({{ site.baseurl }}/images/to_shore.jpg)
-_Avon is loaded and headed the shore.__
+_Avon is loaded and headed the shore._
 
-And others are going diving.
+#### And others are going diving.
 ![_config.yml]({{ site.baseurl }}/images/loading_boat03.jpg)
 ![_config.yml]({{ site.baseurl }}/images/loading_boat04.jpg)
 ![_config.yml]({{ site.baseurl }}/images/loading_boat05.jpg)
@@ -24,20 +26,21 @@ And others are going diving.
 ![_config.yml]({{ site.baseurl }}/images/dolphin_jump.jpg)
 _HI2 is loaded and headed to the diving sites._
 
-It's just _another day at the "office"_ to some of these guys.
+#### It's just _another day at the "office"_ to some of these guys!
 ![_config.yml]({{ site.baseurl }}/images/dolphins02.jpg)
-_School of dolphins playing around the boat as the coxswain challenges them._
 ![_config.yml]({{ site.baseurl }}/images/dolphins01.jpg)
+_School of dolphins playing around the boat as the coxswain challenges them._
 ![_config.yml]({{ site.baseurl }}/images/reef_shark01.jpg)
 ![_config.yml]({{ site.baseurl }}/images/reef_shark02.jpg)
 _Grey reef shark._
 ![_config.yml]({{ site.baseurl }}/images/blackjacks03.jpg)
 ![_config.yml]({{ site.baseurl }}/images/blackjacks02.jpg)
-_Blackjacks._
+_School of Blackjacks._
 ![_config.yml]({{ site.baseurl }}/images/another_day_at_the_office.jpg)
 _While the team surveys the corals, the precious microbes I collected are stored in the blue containers._
 
-And what can be better than finishing the day watching an equitorial sunset. (ice creame maybe?)
+#### And what can be better than finishing the day watching an equitorial sunset.  
+(maybe ice creame?)
 ![_config.yml]({{ site.baseurl }}/images/watching_sunset01.jpg)
 ![_config.yml]({{ site.baseurl }}/images/watching_sunset02.jpg)
 ![_config.yml]({{ site.baseurl }}/images/sunset_equator01.jpg)
