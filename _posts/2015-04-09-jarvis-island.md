@@ -7,11 +7,13 @@ title: Jarvis Island
 #### As the sun rises the island appear with the sound of thousands of sea birds nesting on its shores.
 ![_config.yml]({{ site.baseurl }}/images/jarvis_sunrise01.jpg)
 ![_config.yml]({{ site.baseurl }}/images/jarvis_panorama.jpg)
-_Panoramic view_
+_Panoramic view at sunrise_
+![_config.yml]({{ site.baseurl }}/images/jarvis_panorama_noon.jpg)
+_Panoramic view at noon_
 ![_config.yml]({{ site.baseurl }}/images/jarvis_beacon.jpg)
 _Jarvis beacon_
 
-#### After brekfast a daily safty breifing and immediately the boats starts to launch:  
+#### After brekfast, a daily safty breifing and immediately the boats start launching:  
 #### Some are heading to shore.
 ![_config.yml]({{ site.baseurl }}/images/loading_boat01.jpg)
 ![_config.yml]({{ site.baseurl }}/images/loading_boat02.jpg)
@@ -39,8 +41,15 @@ _School of Blackjacks._
 ![_config.yml]({{ site.baseurl }}/images/another_day_at_the_office.jpg)
 _While the team surveys the corals, the precious microbes I collected are stored in the blue containers._
 
-#### And what can be better than finishing the day watching an equitorial sunset.  
-(maybe ice creame?)
+#### In the afternoon, the teams return to the ship to analyze the samples and data collected.
+![_config.yml]({{ site.baseurl }}/images/stern_panorama.jpg)
+![_config.yml]({{ site.baseurl }}/images/arms_panorama.jpg)
+_ARMS team processing the artificial reef recovered that morning._
+![_config.yml]({{ site.baseurl }}/images/microbiologist.jpg)
+![_config.yml]({{ site.baseurl }}/images/facs_vials.jpg)
+_The microbiologist on board (me), filtering and analyzing seawater collected adjacent to the coral reef._
+
+#### And what can be better than finishing the day watching an equitorial sunset! (maybe ice creame?)
 ![_config.yml]({{ site.baseurl }}/images/watching_sunset01.jpg)
 ![_config.yml]({{ site.baseurl }}/images/watching_sunset02.jpg)
 ![_config.yml]({{ site.baseurl }}/images/sunset_equator01.jpg)
