@@ -51,7 +51,7 @@ The sharks here are much more curious in comparison to Jarvis and Palmyra, and t
 </video>
 
 
-But there is no doubt that the highlight of Kingman reef's diving is the Giant Clam Garden! Countless clams with infinite colors and patterns - This is definitely one of the most beautiful underwater sites I have ever seen!
+But there is no doubt that the highlight of Kingman reef's diving is the Giant Clam Garden! Countless clams with infinite colors and patterns - This is definitely one of the most beautiful underwater sights I have ever seen!
 
 ![_config.yml]({{ site.baseurl }}/images/kingman_clam_garden01.jpg)  
 
