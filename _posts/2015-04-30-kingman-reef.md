@@ -59,6 +59,8 @@ But there is no doubt that the highlight of Kingman reef's diving is the Giant C
 
 ![_config.yml]({{ site.baseurl }}/images/kingman_clam_garden02.jpg)  
 
+![_config.yml]({{ site.baseurl }}/images/kingman_clam_shark_freedive.jpg)  
+
 ![_config.yml]({{ site.baseurl }}/images/kingman_HB_Clams.JPG)  
 _Hatsue Bailey NOAA-CRED_  
 
@@ -78,5 +80,5 @@ _Hatsue Bailey NOAA-CRED_
 </video>
 
 That's it! The cruise is over and we are making our way back to Hawaii.  
-This trip was an amazing experience, and it will take me some time to let it all sink...  
-But now I'm looking forward to get back home to my wife and daughter :)  
+This trip was an amazing experience! It will take me some time to let it all sink...  
+Now I'm just looking forward to get back home to my wife and daughter :)  
